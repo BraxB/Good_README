@@ -13,6 +13,7 @@ const questions = [
     'Who would you like to credit?',
     'Please provide test instructions',
     'What is your email address?',
+    'What is your github username?',
     'What license does this fall under?'
 ];
 
@@ -84,8 +85,13 @@ function init() {
             name: 'email'
         },
         {
+            type:'input',
+            message: questions[9],
+            name: 'github'
+        },
+        {
             type:'list',
-            message: questions[8],
+            message: questions[10],
             name: 'license',
             choices: ['MIT', 'Mozilla Publice License 2.0', 'Attribution-ShareAlike 4.0 International', 'None'],
             default: 'Attribution-ShareAlike 4.0 International'
@@ -143,7 +149,8 @@ ${answers.tests}
 
 <a id='Questions'></a>
 
-${answers.email}
+Email: ${answers.email}
+Github: [Installation](https://github.com/${answers.github}/)
 
 ## License
 

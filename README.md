@@ -50,7 +50,8 @@ No tests included
 
 <a id='Questions'></a>
 
-Braxb92@gmail.com
+Email: Braxb92@gmail.com
+Github: [Installation](https://github.com/BraxB/)
 
 ## License
 
