@@ -150,6 +150,7 @@ ${answers.tests}
 <a id='Questions'></a>
 
 Email: ${answers.email}
+
 Github: [Installation](https://github.com/${answers.github}/)
 
 ## License
