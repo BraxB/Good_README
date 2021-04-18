@@ -95,49 +95,48 @@ function init() {
         let licenseBadge = renderLicenseBadge(answers.license)
         let fileName = `README`;
         let data = `
-        
-        # ${answers.projectName} ${licenseBadge}
-        
-        ## Description
+# ${answers.projectName} ${licenseBadge}
 
-        ${answers.motivation}
-        ${answers.solves}
-        ${answers.learned}
-        
-        ## Table of Contents
-        <ol>
-            <li>Installation</li>
-            <li>Usage</li>
-            <li>Contributing</li>
-            <li>Tests</li>
-            <li>Questions</li>
-        </ol>
+## Description
 
-        ## Installation
-        
-        ${answers.steps}
-        
-        ## Usage
-        
-        ${answers.usage}
-        
-        ## Contributing
+${answers.motivation}
+${answers.solves}
+${answers.learned}
 
-        ${answers.credits}
+## Table of Contents
+<ol>
+    <li>Installation</li>
+    <li>Usage</li>
+    <li>Contributing</li>
+    <li>Tests</li>
+    <li>Questions</li>
+</ol>
 
-        ## Tests
+## Installation
 
-        ${answers.tests}
-        
-        ## Questions
+${answers.steps}
 
-        ${answers.email}
+## Usage
 
-        ## License
-        ${answers.projectName} is licensed under ${answers.license}
+${answers.usage}
 
-        ---
-        `;
+## Contributing
+
+${answers.credits}
+
+## Tests
+
+${answers.tests}
+
+## Questions
+
+${answers.email}
+
+## License
+${answers.projectName} is licensed under ${answers.license}
+
+---
+`;
         writeToFile(fileName, data);
     })
 }
