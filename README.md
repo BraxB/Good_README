@@ -36,7 +36,7 @@ Through this project I got to practice string interpolation and dip my toe into 
 
 [Video Tutorial](https://drive.google.com/file/d/13y505RdDwHu0iQR9Z64M9eSwoKrx50X3/view)
 
-Sample: This README was created using the Good README Generator itself (with a few lines added for items like the video)
+This README was created using the Good README Generator itself (with a few lines added for items like the video)
 
 ## Contributing
 
