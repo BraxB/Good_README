@@ -34,6 +34,8 @@ Through this project I got to practice string interpolation and dip my toe into 
 4. Answer all prompts as thoroughly as you can in regards to your project
 5. Reap the rewards of your new README
 
+[Video Tutorial](https://drive.google.com/file/d/13y505RdDwHu0iQR9Z64M9eSwoKrx50X3/view)
+
 ## Contributing
 
 <a id='Contributing'></a>
