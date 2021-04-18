@@ -28,13 +28,17 @@ Through this project I got to practice string interpolation and dip my toe into 
 
 <a id='Usage'></a>
 
-1. Open your console and navigate to the root level of the package, 2. Run the command "node index.js", 3. Answer prompts as thoroughly as you can in regards to your project, 4. Reap the rewards of your new README
+1. Open your console and navigate to the root level of the package
+2. Run the command 'npm install' to install all necessary dependencies
+3. Run the command 'node index.js'
+4. Answer all prompts as thoroughly as you can in regards to your project
+5. Reap the rewards of your new README
 
 ## Contributing
 
 <a id='Contributing'></a>
 
-Me
+The GA Tech Bootcamp for teaching me the necessary tech to create this.
 
 ## Tests
 
@@ -51,5 +55,3 @@ Braxb92@gmail.com
 ## License
 
 Good README Generator is licensed under Attribution-ShareAlike 4.0 International
-
----

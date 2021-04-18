@@ -87,12 +87,12 @@ function init() {
             type:'list',
             message: questions[8],
             name: 'license',
-            choices: ['MIT', 'Mozilla Publice License 2.0', 'Attribution-ShareAlike 4.0 International', 'none'],
+            choices: ['MIT', 'Mozilla Publice License 2.0', 'Attribution-ShareAlike 4.0 International', 'None'],
             default: 'Attribution-ShareAlike 4.0 International'
         }
     ])
     .then(answers => {
-        let licenseBadge = renderLicenseBadge(answers.license)
+        let licenseBadge = renderLicenseBadge(answers.license);
         let fileName = `README`;
         let data = `
 # ${answers.projectName} ${licenseBadge}
@@ -106,9 +106,13 @@ ${answers.learned}
 ## Table of Contents
 
 [Installation](#Installation)
+
 [Usage](#Usage)
+
 [Contributing](#Contributing)
+
 [Tests](#Tests)
+
 [Questions](#Questions)
 
 ## Installation
@@ -143,11 +147,11 @@ ${answers.email}
 
 ## License
 
-${answers.projectName} is licensed under ${answers.license}
-
----
 `;
-        writeToFile(fileName, data);
+    if (answers.license != 'None') {
+        data += `${answers.projectName} is licensed under ${answers.license}`
+    }
+    writeToFile(fileName, data);
     })
 }
 
