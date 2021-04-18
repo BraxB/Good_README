@@ -105,36 +105,44 @@ ${answers.learned}
 
 ## Table of Contents
 
-<ol>
-    <li>[Installation](#Installation)</li>
-    <li>Usage</li>
-    <li>Contributing</li>
-    <li>Tests</li>
-    <li>Questions</li>
-</ol>
+[Installation](#Installation)
+[Usage](#Usage)
+[Contributing](#Contributing)
+[Tests](#Tests)
+[Questions](#Questions)
 
-<a id='#Installation'></a>
 ## Installation
+
+<a id='Installation'></a>
 
 ${answers.steps}
 
 ## Usage
 
+<a id='Usage'></a>
+
 ${answers.usage}
 
 ## Contributing
+
+<a id='Contributing'></a>
 
 ${answers.credits}
 
 ## Tests
 
+<a id='Tests'></a>
+
 ${answers.tests}
 
 ## Questions
 
+<a id='Questions'></a>
+
 ${answers.email}
 
 ## License
+
 ${answers.projectName} is licensed under ${answers.license}
 
 ---

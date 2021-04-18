@@ -9,12 +9,10 @@ Through this project I got to practice string interpolation and dip my toe into 
 ## Table of Contents
 
 [Installation](#Installation)
-<li>Usage</li>
-<li>Contributing</li>
-<li>Tests</li>
-<li>Questions</li>
-
-</ol>
+[Usage](#Usage)
+[Contributing](#Contributing)
+[Tests](#Tests)
+[Questions](#Questions)
 
 ## Installation
 
@@ -24,17 +22,25 @@ Through this project I got to practice string interpolation and dip my toe into 
 
 ## Usage
 
+<a id='Usage'></a>
+
 1. Open your console and navigate to the root level of the package, 2. Run the command "node index.js", 3. Answer prompts as thoroughly as you can in regards to your project, 4. Reap the rewards of your new README
 
 ## Contributing
+
+<a id='Contributing'></a>
 
 Me
 
 ## Tests
 
+<a id='Tests'></a>
+
 No tests included
 
 ## Questions
+
+<a id='Questions'></a>
 
 Braxb92@gmail.com
 
