@@ -1,3 +1,4 @@
+
 # Good README Generator [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Description
@@ -9,13 +10,14 @@ Through this project I got to practice string interpolation and dip my toe into 
 ## Table of Contents
 
 <ol>
-    <li>[Installation](## Installation)</li>
+    <li>[Installation](#Installation)</li>
     <li>Usage</li>
     <li>Contributing</li>
     <li>Tests</li>
     <li>Questions</li>
 </ol>
 
+<a id='#Installation'></a>
 ## Installation
 
 1. Download a copy of the full package to your local machine
@@ -30,14 +32,13 @@ Me
 
 ## Tests
 
-No tests include
+No tests included
 
 ## Questions
 
 Braxb92@gmail.com
 
 ## License
-
 Good README Generator is licensed under Attribution-ShareAlike 4.0 International
 
 ---

@@ -106,13 +106,14 @@ ${answers.learned}
 ## Table of Contents
 
 <ol>
-    <li>[Installation](## Installation)</li>
+    <li>[Installation](#Installation)</li>
     <li>Usage</li>
     <li>Contributing</li>
     <li>Tests</li>
     <li>Questions</li>
 </ol>
 
+<a id='#Installation'></a>
 ## Installation
 
 ${answers.steps}
