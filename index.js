@@ -99,7 +99,7 @@ function init() {
     ])
     .then(answers => {
         let licenseBadge = renderLicenseBadge(answers.license);
-        let fileName = `README`;
+        let fileName = `New_README`;
         let data = `
 # ${answers.projectName} ${licenseBadge}
 
