@@ -8,12 +8,12 @@ Through this project I got to practice string interpolation and dip my toe into 
 
 ## Table of Contents
 
-<ol>
-    <li>[Installation](#Installation)</li>
-    <li>Usage</li>
-    <li>Contributing</li>
-    <li>Tests</li>
-    <li>Questions</li>
+[Installation](#Installation)
+<li>Usage</li>
+<li>Contributing</li>
+<li>Tests</li>
+<li>Questions</li>
+
 </ol>
 
 ## Installation
