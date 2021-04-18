@@ -104,8 +104,9 @@ ${answers.solves}
 ${answers.learned}
 
 ## Table of Contents
+
 <ol>
-    <li>Installation</li>
+    <li>[Installation](## Installation)</li>
     <li>Usage</li>
     <li>Contributing</li>
     <li>Tests</li>

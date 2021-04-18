@@ -9,7 +9,7 @@ Through this project I got to practice string interpolation and dip my toe into 
 ## Table of Contents
 
 <ol>
-    <li>Installation</li>
+    <li>[Installation](## Installation)</li>
     <li>Usage</li>
     <li>Contributing</li>
     <li>Tests</li>
@@ -26,11 +26,11 @@ Through this project I got to practice string interpolation and dip my toe into 
 
 ## Contributing
 
-Just me
+Me
 
 ## Tests
 
-No tests included
+No tests include
 
 ## Questions
 
