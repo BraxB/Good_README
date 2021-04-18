@@ -9,9 +9,13 @@ Through this project I got to practice string interpolation and dip my toe into 
 ## Table of Contents
 
 [Installation](#Installation)
+
 [Usage](#Usage)
+
 [Contributing](#Contributing)
+
 [Tests](#Tests)
+
 [Questions](#Questions)
 
 ## Installation
