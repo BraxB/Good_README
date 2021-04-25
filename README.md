@@ -56,7 +56,7 @@ No tests included
 
 Email: Braxb92@gmail.com
 
-Github: [Installation](https://github.com/BraxB/)
+Github: [github.com/BraxB/](https://github.com/BraxB/)
 
 ## License
 
