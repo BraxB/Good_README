@@ -151,7 +151,7 @@ ${answers.tests}
 
 Email: ${answers.email}
 
-Github: [Installation](https://github.com/${answers.github}/)
+Github: [github.com/${answers.github}/](https://github.com/${answers.github}/)
 
 ## License
 
